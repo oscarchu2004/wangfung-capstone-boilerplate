@@ -21,7 +21,7 @@ export default function LandingPage() {
           <section>
             <h2 className="text-xl font-semibold">Project</h2>
             <p className="mt-2 text-zinc-600 dark:text-zinc-400">
-              Focus Bear Time Tracking Sync Service and Dashboard
+              Automated time tracking system
             </p>
           </section>
 
